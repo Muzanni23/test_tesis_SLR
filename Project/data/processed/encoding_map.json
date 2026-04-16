@@ -1,0 +1,54 @@
+{
+  "Objek": {
+    "Mobil": 1,
+    "Motor": 0
+  },
+  "Merek": {
+    "BMW": 0,
+    "Bajaj": 1,
+    "Chevrolet": 2,
+    "Daihatsu": 3,
+    "Fiat": 4,
+    "Ford": 5,
+    "Hino": 6,
+    "Honda": 7,
+    "Hyundai": 8,
+    "Isuzu": 9,
+    "Jeep": 10,
+    "Kawasaki": 11,
+    "Kia": 12,
+    "Lainnya": 13,
+    "Mazda": 14,
+    "Mercedes": 15,
+    "Mitsubishi": 16,
+    "Nissan": 17,
+    "Suzuki": 18,
+    "TVS": 19,
+    "Toyota": 20,
+    "Viar": 21,
+    "Volvo": 22,
+    "Yamaha": 23
+  },
+  "Warna": {
+    "Biru": 0,
+    "Coklat": 1,
+    "Hijau": 2,
+    "Hitam": 3,
+    "Kuning": 4,
+    "Lainnya": 5,
+    "Merah": 6,
+    "Orange": 7,
+    "Putih": 8,
+    "Silver/Abu-abu": 9,
+    "Ungu": 10
+  },
+  "Wilayah": {
+    "Bali-NTT-NTB": 0,
+    "Jawa": 1,
+    "Kalimantan": 2,
+    "Lainnya": 3,
+    "Papua-Maluku": 4,
+    "Sulawesi": 5,
+    "Sumatera": 6
+  }
+}

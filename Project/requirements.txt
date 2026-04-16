@@ -1,0 +1,24 @@
+# ============================================================
+# requirements.txt
+# Proyek: Estimasi Interval Harga Limit Lelang BMN
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+openpyxl>=3.0.0        # Baca/tulis Excel
+
+# Machine Learning
+scikit-learn>=1.1.0    # GBM, preprocessing, metrics
+joblib>=1.2.0          # Simpan/load model
+
+# Visualisasi
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Opsional - jika ingin pakai LightGBM (lebih cepat dari sklearn GBM)
+# lightgbm>=3.3.0
+
+# Opsional - jika ingin pakai MAPIE (library Conformal Prediction resmi)
+# mapie>=0.6.0
